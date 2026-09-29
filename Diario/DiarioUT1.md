@@ -15,3 +15,6 @@
 * Me he peleado con Inteliji e Inteliji ha ganado (También con VSC y también ha ganado VSC).
 * No entiendo cómo poner el jdk en los proyectos que cargo ni en VSC ni en Inteliji.
 * Quería terminar al menos una práctica nueva pero no puedo, ni por la parte de la documentación ni por la parte de GitHub
+### 29 de Septiembre de 2026
+* Terminé el único trabajo que puedo en clase porque sigo peleándome con el JDK - [Práctica de seguridad y accesibilidad en el control de versiones](https://github.com/WishMoment/PortfolioDespliegue/tree/main/EjerciciosUD1/Seguridad)
+El archivo de [SECURITY](https://github.com/WishMoment/PortfolioDespliegue/blob/main/SECURITY.md) y [GITIGNORE](https://github.com/WishMoment/PortfolioDespliegue/blob/main/permisos.gitignore) los veo tan importantes que se quedan al inicio del repositorio
